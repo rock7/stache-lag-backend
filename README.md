@@ -8,7 +8,7 @@ A technical challenge for prospective backend developers at Rock 7 / YB Tracking
 
 3. Decide upon an effective method to determine the number of other vessels “visible” for a given moment. e.g. for each moment, decide the number of other vessels that would have been seen by a crew member on that vessel at that position/time (make any appropriate assumptions you need to).
 
-4. Output a summary table showing average number of sightings per vessel, per day.  For example, it should be possible to say "On day 6 or the rally, a vessel is likely to see 5 other vessels during the day"
+4. Output a summary table showing average number of sightings per vessel, per day.  For example, it should be possible to make conclusions such as "On day 6 of the rally, a vessel is likely to see 5 other vessels during the day" and "On the day before they finish, a typical vessel is likely to see 4 other vessels".
 
 We're looking for efficiency, readability and correctness.  Extra points if you can give us some other interesting insight into the data that we don't already know!
 
